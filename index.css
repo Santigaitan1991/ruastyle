@@ -188,6 +188,10 @@ footer .creado-por a:hover {text-decoration: underline;}
 	header .barra-busqueda {
 		width: 100%;
 	}
+	
+	img {
+		width: 100%;
+		height: 200px;
 }
 
 
